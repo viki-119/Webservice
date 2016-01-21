@@ -11,3 +11,5 @@ http://www.icoolxue.com/search/view/album/1/10?q=restful
 
 springmvc：
 http://www.icoolxue.com/search/view/album/1/10?q=springmvc
+
+webservice教学视频：http://www.icoolxue.com/play/5193
